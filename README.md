@@ -1,4 +1,4 @@
-# Predicting Purchase Buyer's Behaviour Using SMOTE
+# Predicting Buyer's Purchase Behaviour Using SMOTE
 This is my academic group project. Due to privacy concerns, data and some part of the code will not be published.
 
 ## Problem description:
