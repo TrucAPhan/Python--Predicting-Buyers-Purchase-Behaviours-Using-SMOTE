@@ -19,7 +19,7 @@ Predicting whether certain buyers will buy a product (YES) or not (NO) (Classifi
 <img width="273" alt="Screen Shot 2021-07-13 at 16 36 42" src="https://user-images.githubusercontent.com/63483928/125538548-cd26f283-e303-42b7-8ee8-ad9f814ba684.png">
 
    
-   - Decision Tree: Since the relationship between between independent and outcomes of this dataset are complex, we then applied Decision Tree to forecast y_buy. Decision trees appeared to perform better than traditional logistic when the relationship between independent and dependent variables are non-linear, which is the case in this dataset. However, decision tree are prone to overfitting, especially with small dataset, which is why we move on to Random Forest.
+   - Decision Tree: Since the relationship between between independent and outcomes of this dataset are complex, we then applied Decision Tree to forecast buyers' purchase behaviour. Decision trees appeared to perform better than traditional logistic when the relationship between independent and dependent variables are non-linear, which is the case in this dataset. However, decision tree are prone to overfitting, especially with small dataset, which is why we move on to Random Forest.
    
    <img width="332" alt="Screen Shot 2021-07-13 at 16 32 37" src="https://user-images.githubusercontent.com/63483928/125538209-c646e1ae-f0f1-43f3-a21f-c5136a0ef683.png">
 
